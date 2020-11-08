@@ -1,0 +1,26 @@
+body{
+    background-color: #dbf6e9;
+    text-align: center;
+    font-family: sans-serif;
+}
+h1{
+    font-family: 'Tangerine', cursive;
+    font-size: 90px;
+}
+.top-container
+{
+    padding-top: 100px;
+    position: relative;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 300px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 300px;
+}
+.mountain{
+    margin:0 auto;
+}
